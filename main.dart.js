@@ -23323,7 +23323,7 @@ agw:function agw(){},
 amF(){var s=0,r=A.Q(t.H),q,p,o,n,m,l,k
 var $async$amF=A.R(function(a,b){if(a===1)return A.N(b,r)
 while(true)switch(s){case 0:s=2
-return A.U($.aqE().yP(".env"),$async$amF)
+return A.U($.aqE().yP("../.env"),$async$amF)
 case 2:if($.a4==null)A.auX()
 q=$.a4
 q.toString
