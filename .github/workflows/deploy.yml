@@ -17,13 +17,6 @@ jobs:
         run: |
           sed -i 's|<base href="/">|<base href="/shieldbot-web/">|g' index.html
 
-      - name: Build Flutter Web
-        run: flutter build web --release
-
-      - name: Copy build to root
-        run: |
-          cp -r build/web/* ./
-
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
         with:
