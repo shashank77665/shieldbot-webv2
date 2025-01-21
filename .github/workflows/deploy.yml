@@ -13,9 +13,10 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
-      - name: Modify base href in index.html
+      - name: Modify base href in index.html(root path)
         run: |
           sed -i 's|<base href="/">|<base href="/shieldbot-web/">|g' index.html
+
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
