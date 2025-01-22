@@ -77631,7 +77631,7 @@ return new A.Nf(new A.Ap(B.ks,s),new A.Ap(B.ks,s),[])}}
 A.Nf.prototype={
 vj(){var s=0,r=A.R(t.H),q=1,p,o=this,n,m,l,k,j,i,h,g,f,e,d
 var $async$vj=A.S(function(a,b){if(a===1){p=b
-s=q}while(true)switch(s){case 0:h=A.hB("http://127.0.0.1:5000/test-website")
+s=q}while(true)switch(s){case 0:h=A.hB("https://enjoyed-frankly-drake.ngrok-free.app/test-website")
 g=t.N
 f=t.z
 e=A.ap(["base_url",o.x,"options",A.ap(["brute_force",A.ap(["passwords",A.b(["admin","password123"],t.s)],g,t.yp),"sql_injection",A.ap(["payloads",o.y],g,t.j),"dos",A.ap(["request_count",o.z],g,t.S)],g,t.nf)],g,f)
