@@ -79028,7 +79028,7 @@ return A.L($async$jf,r)},
 ar(){this.aK()
 A.c0("Checking Header init")
 this.jf()},
-K(a){var s,r,q=null,p=A.dx(q,A.aK("shieldBot updated",q,q,q,B.aZ,q,q),B.K,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.agw(a),q,q,q),o=A.dx(q,A.aK("Our Services",q,q,q,B.aZ.jJ(B.f2,20),q,q),B.K,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.agx(a),q,q,q),n=A.dx(q,A.aK("FAQ",q,q,q,B.aZ.jJ(B.f2,20),q,q),B.K,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.agy(a),q,q,q),m=A.dx(q,A.aK("About Us",q,q,q,B.aZ.jJ(B.f2,20),q,q),B.K,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.agz(a),q,q,q)
+K(a){var s,r,q=null,p=A.dx(q,A.aK("shieldBot updatedv2",q,q,q,B.aZ,q,q),B.K,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.agw(a),q,q,q),o=A.dx(q,A.aK("Our Services",q,q,q,B.aZ.jJ(B.f2,20),q,q),B.K,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.agx(a),q,q,q),n=A.dx(q,A.aK("FAQ",q,q,q,B.aZ.jJ(B.f2,20),q,q),B.K,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.agy(a),q,q,q),m=A.dx(q,A.aK("About Us",q,q,q,B.aZ.jJ(B.f2,20),q,q),B.K,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.agz(a),q,q,q)
 if(this.e){s=this.r
 s===$&&A.a()
 if(s==null)s="User@emil.com"
